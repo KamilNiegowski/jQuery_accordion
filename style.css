@@ -1,0 +1,29 @@
+.accordion {
+ color: #b04c25;
+ cursor: pointer;
+ width: 10%;
+ text-align: left;
+ font-size: 30px;
+ transition: 0.4s;
+ font-weight:500;
+ line-height:33.6px;
+ font-family:"PT Sans Narrow";
+ /*float:left;*/
+ display:inline-block;
+}
+
+.panel {
+ padding: 0 18px;
+ display: none ;
+ overflow: hidden;
+ width:100%;
+}
+
+.content {
+ display:block !important;
+}
+
+.h2{
+ float:left;
+ width: 90%;
+}
