@@ -31,4 +31,4 @@ jQuery(document).ready(function(){
       panel1.style.display = 'block';
     }
    });
-	}});fg
+	}});
